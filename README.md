@@ -85,7 +85,12 @@ No additional dependencies or installation required.
 
 ## 🚀 Live Demo
 
-[Launch NIGHTFORGE](https://maityanisha254-bit.github.io/NIGHTFORGE/)
+- **Vercel Deployment:** [Launch NIGHTFORGE](https://nightforge-eight.vercel.app/)
+- **GitHub Pages:** [Alternative Deployment](https://maityanisha254-bit.github.io/NIGHTFORGE/)
+
+## 💻 Source Code
+
+[View on GitHub](https://github.com/maityanisha254-bit/NIGHTFORGE)
 
 ## 📌 Project Status
 
