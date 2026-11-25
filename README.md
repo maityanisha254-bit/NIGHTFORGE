@@ -18,7 +18,6 @@ Inspired by RPG gaming systems and a dark, premium interface, NIGHTFORGE transfo
 NIGHTFORGE is built around one idea:
 
 ## 📸 Project Preview
-
 ![NIGHTFORGE Dashboard](./screenshots/dashboard.png)
 
 **Your life is your greatest project.**
@@ -77,7 +76,7 @@ Your progress determines your identity within NIGHTFORGE.
 
 ## 📌 Project Status
 
-**Version:** 1.0
+**Version:** 1.0.0
 
 NIGHTFORGE is an evolving personal productivity project. New features, improvements, and refinements will be introduced as development continues.
 
