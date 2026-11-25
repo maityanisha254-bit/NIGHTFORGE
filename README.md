@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="nightforge-banner.png" width="100%" alt="NIGHTFORGE Banner">
+</p>
+
+
 # 🦇 NIGHTFORGE
 
 ### Build Yourself in Silence. Let Your Progress Speak.
