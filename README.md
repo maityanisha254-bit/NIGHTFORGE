@@ -17,6 +17,10 @@ Inspired by RPG gaming systems and a dark, premium interface, NIGHTFORGE transfo
 
 NIGHTFORGE is built around one idea:
 
+## 📸 Project Preview
+
+![NIGHTFORGE Dashboard](./screenshots/dashboard.png)
+
 **Your life is your greatest project.**
 
 Instead of simply tracking daily activities, NIGHTFORGE encourages users to build discipline, maintain consistency, and monitor their personal growth through a gamified experience.
