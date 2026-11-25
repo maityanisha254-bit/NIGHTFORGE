@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="nightforge-banner.png" width="100%" alt="NIGHTFORGE Banner">
+  <img src="./nightforge-banner.png" width="100%" alt="NIGHTFORGE - Forge Your Own Legend">
 </p>
+
 
 
 # 🦇 NIGHTFORGE
