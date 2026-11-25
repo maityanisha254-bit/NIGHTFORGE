@@ -65,10 +65,23 @@ Your progress determines your identity within NIGHTFORGE.
 
 ## 💻 Technology
 
+## ⚙️ Installation & Usage
+
 - HTML
 - CSS
 - JavaScript
 - Browser-based storage
+
+## ⚙️ Installation & Usage
+
+1. Clone this repository:
+   `git clone https://github.com/maityanisha254-bit/NIGHTFORGE.git`
+
+2. Open the project folder.
+
+3. Open `index.html` in your browser.
+
+No additional dependencies or installation required.
 
 ## 🚀 Live Demo
 
